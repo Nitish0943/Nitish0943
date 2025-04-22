@@ -21,6 +21,6 @@
 ![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
 
 ## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nitish-pathak/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=google-chrome)](https://yourportfolio.com)  
 
