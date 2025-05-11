@@ -18,7 +18,7 @@
 🔹 **[ChatSupportAI](https://github.com/yourrepo)** – AI-powered chatbot for customer support  
 
 ## 📊 GitHub Stats
-![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitish0943&show_icons=true&theme=tokyonight)
 
 ## 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nitish-pathak/)  
