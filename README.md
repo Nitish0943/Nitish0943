@@ -1,4 +1,4 @@
-![Banner](https://readme-hero.vercel.app/api?username=Nitish0943&title=AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Dev%20%7C%20Hackathon%20Builder)
+
 
 # Hi, I'm Nitish Pathak! 🚀
 
@@ -29,7 +29,7 @@ Others:         [ Solidity, Smart Contracts, Embedded Systems ]
 🍦 [**Ice Cream UI**](https://github.com/Nitish0943/code-x-nova) – Pixel-perfect React site from Figma design  
 📷 [**AI Image Enhancer**](https://github.com/Nitish0943/AI-Image-Enhancer) – Upload + enhance images with AI side-by-side preview  
 🌌 [**Zentry Clone**](https://github.com/Nitish0943/zentry-clone) – Metaverse-inspired animated UI with React, GSAP  
-📅 [**InterVue AI**](#) – Smart AI productivity planner for task prioritization & scheduling  
+📅 [**InterVue AI**](https://github.com/Nitish0943/InterVue-AI) – Smart AI productivity planner for task prioritization & scheduling  
 
 ---
 
@@ -43,7 +43,7 @@ Others:         [ Solidity, Smart Contracts, Embedded Systems ]
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nitish-pathak/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=google-chrome)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=google-chrome)](https://personal-portfolio-azure-nine.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Nitish0943-black?logo=github)](https://github.com/Nitish0943)
 
 ---
